@@ -15,15 +15,15 @@ const Hero = () => (
       }
       description={
         <>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
+          Soy un apasionado Full Stack Developer con mucha experiencia previa como informático, {' '}
           <a className="text-cyan-400 hover:underline" href="/">
             malesuada
           </a>{' '}
-          nisi tellus, non imperdiet nisi tempor at. Lorem ipsum dolor sit amet,{' '}
+          mi vida está marcada por un continuo proceso de aprendizaje y crecimiento en el ámbito de la tecnología.{' '}
           <a className="text-cyan-400 hover:underline" href="/">
             consectetur
           </a>{' '}
-          adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.
+          Disfruto enfrentando desafíos, resolviendo problemas y participando activamente en el desarrollo de soluciones innovadoras.
         </>
       }
       avatar={
