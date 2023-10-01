@@ -15,13 +15,13 @@ const Hero = () => (
       }
       description={
         <>
-          Soy un apasionado Full Stack Developer con mucha experiencia previa como informático, {' '}
+          Soy un apasionado Full Stack Developer con mucha experiencia previa como {' '}
           <a className="text-cyan-400 hover:underline" href="/">
-            malesuada
+          informático,
           </a>{' '}
-          mi vida está marcada por un continuo proceso de aprendizaje y crecimiento en el ámbito de la tecnología.{' '}
+          mi vida está marcada por un continuo proceso de aprendizaje y crecimiento en el ámbito de la {' '}
           <a className="text-cyan-400 hover:underline" href="/">
-            consectetur
+          tecnología.
           </a>{' '}
           Disfruto enfrentando desafíos, resolviendo problemas y participando activamente en el desarrollo de soluciones innovadoras.
         </>
